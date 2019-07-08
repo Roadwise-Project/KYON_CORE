@@ -13,7 +13,6 @@ KYON is a secure blockchain-based system which provides reliable drone flight da
 
 - Flight data collected through FlightTracker® includes flight hours, flight areas, altitude, and SKYWORK-oriented flight skill grade as well as flight experience information. Anyone can easily view the information and evaluate which pilot is suitable for the job position. KYON’s affiliated drone academies will provide various classified flight missions. If someone completes a mission and passes the test, he will get a specialized flight skill. Companies will prefer the jobseeker than any others. Jobseeker will work for the company he wanted, and the company will reduce costs, and put him in a job immediately.
 
-
 ## KDMS(KYON Drone flight Management System) : How it works
 In case of collecting safe and precise flight data, we need a hardware device, a personal authentication enabled, and a systematic network which connects the collected data with a smartphone terminal to upload onto the blockchain. The system is KDMS, KYON Drone flight Management System.
 FlightTracker®, an adhesive device, collects flight data on an aircraft, connects a smartphone application, and upload the data onto the blockchain network. It’s a basic protocol of KDMS.
