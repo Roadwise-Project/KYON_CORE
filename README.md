@@ -2,7 +2,6 @@
 
 ## What is KYON?
 KYON is a secure blockchain-based system which provides reliable drone flight data.
-<br>
 
 ## Problems & Solutions
 ### Problems
@@ -26,13 +25,13 @@ The very beginning is gathering flight data from a drone aircraft which is flyin
 ### - Step 2 |  Flight Data Store Between KYON Application & Blockchain Network
 Collected flight data using FlightTracker® is transferred to KYON application, and uploaded to KYON blockchain network. When you transfer data into your smartphone application, you have to pass the user authentication process. KYON application synchronizes the user information and the user’s flight data. Each flight is subdivided into an individual process for management.
 Use Case: service flow from flight data gathering to storage/query
-<br>
-<center>
-<img width="650" alt="KYON_flight data" src="https://user-images.githubusercontent.com/49672476/60777619-49508900-a16e-11e9-8e8b-220c2f964ae9.png">
-</center>
-<br>
-### Flight data gathering/storage process flow
-<br>
+
+
+<p align="center"><img width="650" alt="KYON_flight data" src="https://user-images.githubusercontent.com/49672476/60777619-49508900-a16e-11e9-8e8b-220c2f964ae9.png">
+
+### Flight data gathering/storage process flow</p>
+
+
 
 ## Resource
 1. [Website](http://www.kyon.io/)
