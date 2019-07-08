@@ -1,4 +1,4 @@
-# KYON - 
+# KYON
 
 ## What is KYON?
 KYON is a secure blockchain-based system which provides reliable drone flight data.
