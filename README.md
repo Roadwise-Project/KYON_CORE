@@ -31,7 +31,7 @@ Use Case: service flow from flight data gathering to storage/query
 <img width="650" alt="KYON_flight data" src="https://user-images.githubusercontent.com/49672476/60777619-49508900-a16e-11e9-8e8b-220c2f964ae9.png">
 </center>
 
-##### Flight data gathering/storage process flow
+### Flight data gathering/storage process flow
 <br>
 
 ## Resource
